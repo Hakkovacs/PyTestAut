@@ -133,7 +133,7 @@ class TestSimpleTest():
 
         assert result == output
 
-        time.sleep(3)
+        time.sleep(5)
 
         print("\nResult:", result)
         print("Expected Output:", output)
